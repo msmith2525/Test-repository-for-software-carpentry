@@ -5,9 +5,11 @@ Read data file
 
 Run analysis
 
+plot data
+
 Save table
 
-Make header bold
+Make header bold, and green and underlined
 
 Save small figure, red line
 
