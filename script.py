@@ -11,5 +11,6 @@ Save table
 
 Make header bold, and green and underlined
 
-Save small figure, red line
+Save small figure, red line and dashed
+
 
